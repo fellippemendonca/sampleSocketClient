@@ -3,7 +3,7 @@
 module.exports = {
   serverAddress: {
     host: 'localhost',
-    port: 5333
+    port: 7333
   },
   keepAliveMs: 5000,
   reconnectMs: 3000,
